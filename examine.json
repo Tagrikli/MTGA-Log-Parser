@@ -1,0 +1,29 @@
+{
+    "transactionId": "8b871102-000d-443a-9d2b-b968019ec2ca",
+    "timestamp": "637498764838793115",
+    "matchGameRoomStateChangedEvent": {
+        "gameRoomInfo": {
+            "gameRoomConfig": {
+                "eventId": "Play",
+                "matchId": "565997f8-975b-458b-87a0-dd6a132c7c86"
+            },
+            "stateType": "MatchGameRoomStateType_MatchCompleted",
+            "finalMatchResult": {
+                "matchId": "565997f8-975b-458b-87a0-dd6a132c7c86",
+                "matchCompletedReason": "MatchCompletedReasonType_Success",
+                "resultList": [
+                    {
+                        "scope": "MatchScope_Game",
+                        "result": "ResultType_WinLoss",
+                        "winningTeamId": 1
+                    },
+                    {
+                        "scope": "MatchScope_Match",
+                        "result": "ResultType_WinLoss",
+                        "winningTeamId": 1
+                    }
+                ]
+            }
+        }
+    }
+}

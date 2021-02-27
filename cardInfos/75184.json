@@ -1,0 +1,117 @@
+{
+    "object": "card",
+    "id": "77da4de2-4d34-40e5-8fc0-850aef05356b",
+    "oracle_id": "e3179dd6-5558-4385-8883-f78f9d1b1c4f",
+    "multiverse_ids": [
+        503753
+    ],
+    "mtgo_id": 87617,
+    "arena_id": 75184,
+    "tcgplayer_id": 230866,
+    "cardmarket_id": 532317,
+    "name": "Immersturm Raider",
+    "lang": "en",
+    "released_at": "2021-02-05",
+    "uri": "https://api.scryfall.com/cards/77da4de2-4d34-40e5-8fc0-850aef05356b",
+    "scryfall_uri": "https://scryfall.com/card/khm/141/immersturm-raider?utm_source=api",
+    "layout": "normal",
+    "highres_image": false,
+    "image_uris": {
+        "small": "https://c1.scryfall.com/file/scryfall-cards/small/front/7/7/77da4de2-4d34-40e5-8fc0-850aef05356b.jpg?1610994575",
+        "normal": "https://c1.scryfall.com/file/scryfall-cards/normal/front/7/7/77da4de2-4d34-40e5-8fc0-850aef05356b.jpg?1610994575",
+        "large": "https://c1.scryfall.com/file/scryfall-cards/large/front/7/7/77da4de2-4d34-40e5-8fc0-850aef05356b.jpg?1610994575",
+        "png": "https://c1.scryfall.com/file/scryfall-cards/png/front/7/7/77da4de2-4d34-40e5-8fc0-850aef05356b.png?1610994575",
+        "art_crop": "https://c1.scryfall.com/file/scryfall-cards/art_crop/front/7/7/77da4de2-4d34-40e5-8fc0-850aef05356b.jpg?1610994575",
+        "border_crop": "https://c1.scryfall.com/file/scryfall-cards/border_crop/front/7/7/77da4de2-4d34-40e5-8fc0-850aef05356b.jpg?1610994575"
+    },
+    "mana_cost": "{1}{R}",
+    "cmc": 2.0,
+    "type_line": "Creature — Demon Berserker",
+    "oracle_text": "When Immersturm Raider enters the battlefield, you may discard a card. If you do, draw a card.",
+    "power": "2",
+    "toughness": "1",
+    "colors": [
+        "R"
+    ],
+    "color_identity": [
+        "R"
+    ],
+    "keywords": [],
+    "legalities": {
+        "standard": "legal",
+        "future": "legal",
+        "historic": "legal",
+        "gladiator": "legal",
+        "pioneer": "legal",
+        "modern": "legal",
+        "legacy": "legal",
+        "pauper": "legal",
+        "vintage": "legal",
+        "penny": "legal",
+        "commander": "legal",
+        "brawl": "legal",
+        "duel": "legal",
+        "oldschool": "not_legal",
+        "premodern": "not_legal"
+    },
+    "games": [
+        "arena",
+        "paper",
+        "mtgo"
+    ],
+    "reserved": false,
+    "foil": true,
+    "nonfoil": true,
+    "oversized": false,
+    "promo": false,
+    "reprint": false,
+    "variation": false,
+    "set": "khm",
+    "set_name": "Kaldheim",
+    "set_type": "expansion",
+    "set_uri": "https://api.scryfall.com/sets/43057fad-b1c1-437f-bc48-0045bce6d8c9",
+    "set_search_uri": "https://api.scryfall.com/cards/search?order=set\u0026q=e%3Akhm\u0026unique=prints",
+    "scryfall_set_uri": "https://scryfall.com/sets/khm?utm_source=api",
+    "rulings_uri": "https://api.scryfall.com/cards/77da4de2-4d34-40e5-8fc0-850aef05356b/rulings",
+    "prints_search_uri": "https://api.scryfall.com/cards/search?order=released\u0026q=oracleid%3Ae3179dd6-5558-4385-8883-f78f9d1b1c4f\u0026unique=prints",
+    "collector_number": "141",
+    "digital": false,
+    "rarity": "common",
+    "flavor_text": "The demons took no captives and claimed no spoils; they sought only to destroy.",
+    "card_back_id": "0aeebaf5-8c7d-4636-9e82-8c27447861f7",
+    "artist": "Grzegorz Rutkowski",
+    "artist_ids": [
+        "b5f49d0d-8056-48e3-b614-090e656b4f9c"
+    ],
+    "illustration_id": "8484a698-f563-4341-8c0d-7a70e509606f",
+    "border_color": "black",
+    "frame": "2015",
+    "full_art": false,
+    "textless": false,
+    "booster": true,
+    "story_spotlight": false,
+    "edhrec_rank": 17804,
+    "preview": {
+        "source": "Jack Fliegler",
+        "source_uri": "https://twitter.com/ToxicxEternity/status/1350983793000259589",
+        "previewed_at": "2021-01-18"
+    },
+    "prices": {
+        "usd": "0.04",
+        "usd_foil": "0.17",
+        "eur": "0.02",
+        "eur_foil": "0.05",
+        "tix": "0.01"
+    },
+    "related_uris": {
+        "gatherer": "https://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=503753",
+        "tcgplayer_decks": "https://decks.tcgplayer.com/magic/deck/search?contains=Immersturm+Raider\u0026page=1\u0026utm_campaign=affiliate\u0026utm_medium=api\u0026utm_source=scryfall",
+        "edhrec": "https://edhrec.com/route/?cc=Immersturm+Raider",
+        "mtgtop8": "https://mtgtop8.com/search?MD_check=1\u0026SB_check=1\u0026cards=Immersturm+Raider"
+    },
+    "purchase_uris": {
+        "tcgplayer": "https://shop.tcgplayer.com/product/productsearch?id=230866\u0026utm_campaign=affiliate\u0026utm_medium=api\u0026utm_source=scryfall",
+        "cardmarket": "https://www.cardmarket.com/en/Magic/Products/Singles/Kaldheim/Immersturm-Raider?referrer=scryfall\u0026utm_campaign=card_prices\u0026utm_medium=text\u0026utm_source=scryfall",
+        "cardhoarder": "https://www.cardhoarder.com/cards/87617?affiliate_id=scryfall\u0026ref=card-profile\u0026utm_campaign=affiliate\u0026utm_medium=card\u0026utm_source=scryfall"
+    }
+}
